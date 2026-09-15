@@ -1,19 +1,25 @@
 # Chillio for Android TV: sideload releases
 
-Signed APKs of Chillio for Android TV, published here for devices that install apps outside Google Play.
+Signed APKs of Chillio for Android TV, for TVs and boxes that install apps outside Google Play.
 
 ## Install
 
-1. On your Android TV, allow installs from your browser or file manager.
-2. Download the latest APK and open it. The link always points at the newest release:
-   `https://github.com/AppleChillVibez/chillio-tv-releases/releases/latest/download/chillio-tv.apk`
-   (all versions are listed under [Releases](../../releases)).
-3. Sign in with your Chillio Account. New accounts start with a free trial.
+The official ways to get Chillio for Android TV are the Downloader code and the chillio.app link below. Only install Chillio from these sources.
+
+**With the Downloader app (easiest on a TV):**
+
+1. Install **Downloader** by AFTVnews from your TV's app store.
+2. Open Downloader, enter the code **3362287**, and press Go.
+3. When asked, allow Downloader to install apps, then install Chillio.
+
+**With any browser:** open **https://chillio.app/get/tv** on the TV. It always downloads the newest release. Every version is also listed under [Releases](../../releases).
+
+Then open Chillio and sign in with your Chillio Account. New accounts start with a free 7-day trial; after that, activate the TV with your premium bundle at [account.chillio.app](https://account.chillio.app).
 
 Already have Chillio from Google Play? Uninstall that copy first. The two builds are signed differently and cannot update each other.
 
 ## Updates
 
-The app checks this repository for newer releases and offers to download and install them.
+Chillio checks for new releases and offers to download and install them from inside the app, with what's new in each version. You can also update from Settings.
 
 This repository holds release files only. Source code is not published here.
